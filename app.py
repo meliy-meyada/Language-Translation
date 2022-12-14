@@ -1,13 +1,14 @@
 import streamlit as st
 import numpy as np
+import config
 from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator, authenticator
 
 
 # setting up the api key configuration
 
-api_key = 'I1fpErHC9AfZLo_F4hStqdlIwFjl9iqd05oMf7a8lkV3'
-url = 'https://api.us-south.language-translator.watson.cloud.ibm.com/instances/ea542ff9-19fe-4baf-b924-31c034e9b073'
+api_key = config.api_key
+url = config.url
 
 authenticator = IAMAuthenticator(apikey=api_key)
 
