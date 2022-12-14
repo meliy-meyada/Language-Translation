@@ -14,8 +14,8 @@
 
 ## 1. Authenticate
 ```
-api_key = ''<Enter your API KEY>'
-url = ''<Enter your API URL>'
+api_key = '<Enter your API KEY>'
+url = '<Enter your API URL>'
 ```
 
 ## 2.Translate
