@@ -3,6 +3,8 @@
 
 ### Python จะใช้ในการจับข้อความ หลังจากนั้นจะถูกส่งไปยัง IBM cloud เพื่อแปลเป็นภาษาที่เลือก จากนั้น Watson AI จะถูกใช้เพื่อเปลี่ยนข้อความที่แปลเป็นคำพูด จากนั้นไฟล์จะถูกส่งออกไป
 
+![mobile (1)](https://user-images.githubusercontent.com/79361511/207608676-9ea4af12-2ce5-4a21-b9e4-2143592b8ed0.gif)
+
 
 ### Workflow
 
@@ -198,7 +200,6 @@ url = ''<Enter your API URL>'
  
  
  
-![mobile (1)](https://user-images.githubusercontent.com/79361511/207608676-9ea4af12-2ce5-4a21-b9e4-2143592b8ed0.gif)
 
 
 
